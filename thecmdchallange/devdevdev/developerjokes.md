@@ -1,12 +1,10 @@
-1.	Why do programmers prefer dark mode?
-Because light attracts bugs!
+1.Why do programmers prefer dark mode?
 
-2.	What did the Java code say to the C code?
+2.What did the Java code say to the C code?
 “You’ve got no class!”
 
-3.	Why do programmers always mix up Halloween and Christmas?
+3.Why do programmers always mix up Halloween and Christmas?
 Because Oct 31 equals Dec 25 (Octal 31 = Decimal 25).
-
 4.	How many programmers does it take to change a light bulb?
 None, that’s a hardware problem.
 
